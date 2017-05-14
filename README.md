@@ -57,7 +57,11 @@ npm run start-bot
 - Introduce different types of scenes that can be created
 - Etc.
 
+## Inspiration
+
+- [LatourSwag Bot](https://github.com/dariusk/latourswag)
+
 # Resources
 
-[How I built Metaphor-a-Minute](http://tinysubversions.com/2012/05/how-i-built-metaphor-a-minute/) blog post by Darius Kazemi
-[Bot Example](https://github.com/ttezel/twit/blob/master/examples/bot.js) from Twit example code
+- [How I built Metaphor-a-Minute](http://tinysubversions.com/2012/05/how-i-built-metaphor-a-minute/) blog post by Darius Kazemi
+- [Bot Example](https://github.com/ttezel/twit/blob/master/examples/bot.js) from Twit example code
