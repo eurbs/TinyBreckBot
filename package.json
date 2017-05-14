@@ -1,0 +1,13 @@
+{
+  "name": "TinyBreckBot",
+  "version": "0.1.0",
+  "main": "tinytweets.js",
+  "repository": {
+    "url": "git@github.com:eurbs/TinyBreckBot.git",
+    "type": "git"
+  },
+  "author": "emilee",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
