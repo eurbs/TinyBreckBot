@@ -7,6 +7,9 @@
     "type": "git"
   },
   "author": "emilee",
+  "scripts": {
+    "start-bot": "node tinytweets.js"
+  },
   "dependencies": {
     "twit": "^2.2.5"
   }
